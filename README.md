@@ -1,0 +1,2 @@
+# ZPDataStorageMode_preferences
+介绍iOS中数据的偏好设置存储方式。
